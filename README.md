@@ -1,18 +1,17 @@
-<h2 align="left">Hi 👋! My name is Pinku Roy<br><br>I'm a Full Stack Developer with a love for coding and continuous learning 👨‍💻</h2>
+<h2 align="left">Hi 👋!<br><br>My name is Pinku Roy<br><br>I'm a full stack developer with a love for coding and continuous learning 👨‍💻</h2>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  />
+<img align="right" height="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  />
 
 ###
 
-<p align="left">- 🌱 Currently exploring Python and Java<br>- 💬 Ask me about JavaScript, React, and Node.js<br>- 💡 Passionate about building innovative solutions<br> - 🚀 I love exploring new technologies<br>- 📫 How to reach me: sam469roger@gmail.com</p>
+<p align="left">- 🌱 Currently exploring Python and Java<br><br>- 💬 Ask me about JavaScript, React, and Node.js<br><br>- 💡 Passionate about building innovative solutions<br><br> - 🚀 I love exploring new technologies<br><br>- 📫 How to reach me: sam469roger@gmail.com</p>
 
 ###
 
-<br clear="both">
 <br clear="both">
 <br clear="both">
 
