@@ -2,9 +2,13 @@
 
 ###
 
-<img align="right" height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  />
+<div align="center">
+  <img height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
