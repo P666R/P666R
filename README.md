@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!<br><br>My name is Pinku Roy<br><br>I'm a full stack developer with a love for coding and continuous learning 👨‍💻</h2>
+<h2 align="left">Hi 👋!<br><br>I'm a full stack developer with a love for coding and continuous learning 👨‍💻</h2>
 
 ###
 
